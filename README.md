@@ -1,0 +1,2 @@
+# UniversityManagementSystem_UML_Diagram
+UML Diagram
